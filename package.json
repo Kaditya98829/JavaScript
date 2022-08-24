@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.19",
+    "prompt-sync": "^4.2.0",
+    "type-check": "^0.4.0",
+    "typecheck": "^0.1.2"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "Day-1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Day-3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
